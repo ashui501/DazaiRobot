@@ -1,9 +1,9 @@
 <h2 align="center">
-     『 𝘿𝘼𝙕𝘼𝙄 ✘ 𝙍𝙊𝘽𝙊𝙏 』
+     『 TRUNKS』
 </h2>
 
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝘿𝘼𝙕𝘼𝙄](https://t.me/Dazaiprobot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [(https://t.me/TRUNKS_ROBOT)**_
 
 
 <p align="center">

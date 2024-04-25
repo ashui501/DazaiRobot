@@ -202,10 +202,14 @@ def start(update: Update, context: CallbackContext):
             first_name = update.effective_user.first_name
             
             usr = update.effective_user
-            lol = update.effective_message.reply_text(
+            update.effective_message.reply_photo(
+                photo=START_IMG, captain=f"hello, {first_name}"
+            )
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
             )
-            
+            lol = update.effective_message.reply_text(
+                'Starting.....'
+            )
             time.sleep(0.1)
             lol.edit_text("💥")
             time.sleep(0.2)

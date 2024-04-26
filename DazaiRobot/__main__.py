@@ -199,13 +199,10 @@ def start(update: Update, context: CallbackContext):
                 IMPORTED["rᴜʟᴇs"].send_rules(update, args[0], from_pm=True)
 
         else:
-            first_name = update.effective_user.first_name
-            
+            first_name = update.effective_user.first_name         
             usr = update.effective_user
             update.effective_message.reply_photo(
                 photo=START_IMG, captain=f"hello, {first_name}"
-            )
-                PM_START_TEXT.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
             )
             lol = update.effective_message.reply_text(
                 'Starting.....'

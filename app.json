@@ -9,7 +9,7 @@
          "manager",
          "Dazai"
       ],   
-   "repository": "https://github.com/adi6804/DazaiRobot",
+   "repository": "https://github.com/ashui501/DazaiRobot",
    "stack": "heroku-22",
    "addons": [
       {
